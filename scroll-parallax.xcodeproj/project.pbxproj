@@ -23,6 +23,7 @@
 		B1E7D9312AD8742D0094A801 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1E7D9392AD8746D0094A801 /* TripCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripCard.swift; sourceTree = "<group>"; };
 		B1E7D93C2AD8750E0094A801 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		B1E95E712AD891A700F88DDA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		B1E7D91E2AD8742C0094A801 = {
 			isa = PBXGroup;
 			children = (
+				B1E95E712AD891A700F88DDA /* README.md */,
 				B1E7D9292AD8742C0094A801 /* scroll-parallax */,
 				B1E7D9282AD8742C0094A801 /* Products */,
 			);
